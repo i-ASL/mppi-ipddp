@@ -1,0 +1,6 @@
+[submodule "MPPI-IPDDP"]
+	path = MPPI-IPDDP
+	url = https://github.com/kmg3821/MPPI-IPDDP
+[submodule "mppi_ipddp_cpp"]
+	path = mppi_ipddp_cpp
+	url = https://github.com/MC00614/mppi_ipddp_cpp
